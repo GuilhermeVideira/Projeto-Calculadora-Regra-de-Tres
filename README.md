@@ -1,4 +1,4 @@
-# 📐 Projeto calculaora de regra de três 📐
+# 📐 Projeto calculadora de regra de três 📐
 Este seguinte projeto é uma atividade prática de programação de aplicativos mobile, do curso de desenvolvimento de sistemas que estou cursando autualmente.
 A proposta da atividade era de desenvolver uma calculadora que calcule o cálculo matemático "regra de três".
 
