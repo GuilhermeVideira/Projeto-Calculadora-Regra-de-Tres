@@ -1,7 +1,9 @@
-# 📐 Projeto Calculadora regra de três 📐
+# 📐 Projeto Calculadora Regra de Três 📐
 Este seguinte projeto é uma atividade prática de programação de aplicativos mobile, do curso de desenvolvimento de sistemas que estou cursando autualmente.
 
-A proposta da atividade era de desenvolver uma calculadora que calcule o cálculo matemático "regra de três", utilizando os requisitos de utilizar linguagem de programação JavaScript e também desenvolver essa aplicação no site de desenvolvimento mobile "Monaca".
+A proposta da atividade era de desenvolver uma calculadora que calcule o cálculo matemático "regra de três". Utilizando assim os requisitos de utilizar linguagem de programação JavaScript e também desenvolver essa aplicação no site de desenvolvimento mobile "Monaca".
+
+Acesse o deploy desta aplicação desenvolvida: https://guilhermevideira.github.io/Projeto-Calculadora-Regra-de-Tres/
 
 👩🏻‍🏫 📈 📚 📉  📏 🧮 
 
